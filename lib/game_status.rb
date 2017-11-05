@@ -43,5 +43,3 @@ def winner(board)
   end
 end
 
-puts full?(board1)
-puts full?(board2)
